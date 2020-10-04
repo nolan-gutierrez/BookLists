@@ -1,6 +1,5 @@
 # List of Freely available books for computer science, software engineering, and computer engineering. #
 Each of the following books are available for free in PDF format. The selection of books are based on availability. Each book corresponds to an available class in the typical University Computer Science program. 
-- Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library 
 - Deep Learning, Goodfellow 
 - An introduction to Algorithms, Cormen 
 - Artificial Intelligence: A Modern Approach, Norvig
@@ -57,5 +56,5 @@ Conquering Complex and Changing Systems, Bruegge
 - Design and Analysis of Reliable Fault- tolerant Computer Systems, Abd- El- Barr
 - Digital Image Processing, Gonzalez
 - Introduction to Computer Graphics, Eck
--
+
 
