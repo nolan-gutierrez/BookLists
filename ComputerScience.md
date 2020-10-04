@@ -1,0 +1,60 @@
+Each of the following books are available for free in PDF format. The selection of books are based on availability. Each book corresponds to an available class in the typical University Computer Science program. 
+-Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library 
+-Deep Learning, Goodfellow 
+-An introduction to Algorithms, Cormen 
+-Artificial Intelligence: A Modern Approach, Norvig
+-Practical Common Lisp, Seibel
+-Computer Vision: Algorithms and Applications, Szeliski 
+-Modern Robotics Mechanics, Planning, and Control, Lynch 
+-Introduction to Electronics, Zulinski
+-Reinforcement Learning, Sutton
+-Understanding Machine Learning, From Theory to Algorithms, Shalev-Schwartz
+-Data Structures and Algorithms in Java, Goodrich
+-Object Oriented Programming in C++, Lafore
+-Computer Organization and Architecture 10th Edition, Stallings
+-A Course in Discrete Structures, Pass 
+-Electric Circuits and Signals, Sabah 
+-Foundations of Digital Electronics and Logic Design, Sarkar 
+- Object-Oriented Software Engineering
+Conquering Complex and Changing Systems, Bruegge 
+-Introduction to Signal Processing, Organidis 
+-Introduction to Theoretical Computer Science, Barak 
+-Operating Systems, Internals and Design Principles, Stallings 
+-Database Systems: The Complete Book (2nd Edition) Garcia-Molina 
+-Introduction to Embedded Systems, A Cyber-Physical Systems Approach, Lee 
+-Modern Compiler Design 2nd Edition, Grune 
+-System Design, Modeling, and Simulation, Ptolemaeus 
+-Introduction to Software Testing Ammann 
+-Computer Architecture: A Quantitative Approach, Hennessy 
+-Introduction to Wireless and Mobile Systems, Agrawal 
+- An Introduction to Computer Networks, Dordal
+- Introduction to Parallel Computing: From Algorithms to Programming on State-of-the-Art Platforms, Trobec
+-Internet-of-Things Systems Architectures, Algorithms, and Methodologies, Serpanos
+-Realtime Operating Systems, Sauermann
+-System on a Chip Design and Modeling, Greaves
+-Microprocessor systems handbook, Burton
+-Robot Programming A guide to controlling autonomous robots, Hughes
+-Design Patterns for Dummies, Holzner
+-Theory, Design, and Applications of Unmanned Aerial Vehicles, Jha
+-Secure Coding in C and C++, Seacord
+-Distributed Systems, Steen
+-Information Security Principles and Practice, Stamp
+-Concepts of Programming Languages, Sebesta
+-Computational Complexity: A Modern Approach, Arora
+-Combinatorics and Graph Theory, Harris
+-A practical introduction to real-time systems for undergraduate engineering, Harder
+- Understanding Telecommunication Networks, Valdar
+-Essentials of Cloud Computing, Chandrasekaran
+-Web Data Managemen, Abiteboul
+-Wireless Netoworks Local and Ad Hoc Networks, Marsic
+- Search Engines Information Retrieval in Practice, Croft
+-Multimedia Systems Algorithms, Standards and Industry Practices, Havaldar
+-Neural Network Design, Hagan
+-Essential Bioinformatics, Xiong
+-Models of Computation Exploring the Power of Computing, Savage
+-An Introduction to Wireless Sensor Networks, Fischione
+-Design and Analysis of Reliable Fault-tolerant Computer Systems, Abd-El-Barr
+-Digital Image Processing, Gonzalez
+-Introduction to Computer Graphics, Eck
+-
+
