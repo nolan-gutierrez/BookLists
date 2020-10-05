@@ -1,0 +1,53 @@
+# List of Freely Available Mathematics Books #
+This is a list of Freely Available Mathematics books which each correspond to a different course in a typical department of Mathematics at a University.
+- Calculus, Strang
+- An Introduction to Stochastic Modeling, Taylor
+- Beginning and Intermediate Algebra, Wallace
+- A book of Abstract Algebra, Pinter 
+- Trigonometry, Corral
+- Numerical Methods with Applications, Kaw
+- Discrete Mathematics An Open Introduction, Levin
+- Elementary Differential Equations, Trench
+- An Introduction to Partial Differential Equations, Pinchover
+- Mathematical Proofs, A Transition to Advanced Mathematics, Chartrand
+- Introduction to Graph Theory, Wilson
+- Introduction to Differential Geometry, Robbin
+- Algebraic Geometry, Milne
+- Combinatorial Optimization: Exact and Approximate Algorithms, Trevisan 
+- Convex Optimization, Boyd
+- Probability Theory The Logic of Science, Jaynes
+- An Introductory Course in Elementary Number Theory, Raji
+- Complex Variables and Applications, Brown
+- Introduction to Real Analysis, Trench
+- Topology without Tears, Morris
+- Scientific Computing,  Chasnov
+- Applied Mathematics: Body & Soul Vol I-III Eriksson
+- Linear Algebra, Cherney
+- Ordinary Differential Equations, Nagy
+- Numerical Solutions of Partial Differential Equations, Morton
+- Numerical Solutions of Ordinary Differential Equations, Atkinson
+- Time Series Analysis and Its Applications, Shumway
+- An Introduction to Generalized Linear Models, Dobson
+- Applied Probability and Stochastic Processes, Beichelt
+- Data Mining Concepts and Techniques, Han
+- College Geometry An Inroductionto the Modern Geometry of the Triangel nd the Circle, Altshiller-Cout
+- An Introduction to Mathematical Modeling, Alder
+- Multivariable calculus, Shurman
+- Statistical Inference, Casella
+- general topology, Keller
+- Geometric and Topological Inference, Boissonnat
+- Analytic Geometry, Pierce
+- Elementary statistics, Chu
+- Algebraic Number Theory, Milne
+- An Introduction to Nonparametric Statistics, Kolassa
+- Essentials of Game Theory, Brachman
+- Algebraic Topology, Hatcher
+- An Introduction to Homological Algebra, Weibel
+- Introduction to the Mathematical Theory of Systems and Control, Polderman
+- Topics in Linear and Nonlinear Functional Analysis, Teschl
+- Linear Optimization: Theory, methods, and extensions, Andersen
+- Projective Geometry: From Foundations to Applications, Beutelspacher
+- The Physics of Waves, Georgi
+- Linear Programming A Concise Introduction, Feerguson
+- Group Theory, Milne
+- Applied Regression Analysis: A Research Tool, Rawlings
